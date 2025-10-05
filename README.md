@@ -12,3 +12,7 @@ A simple script for disabling the built-in keyboard and touchpad on Linux (Ubunt
 3. Add it to **Startup Applications**
    
 chmod +x disable_trackpad_keyboard.sh
+
+# Tech content
+
+You may watch [TC7](https://web.facebook.com/share/v/17EbYKBkQf/) for more context.
