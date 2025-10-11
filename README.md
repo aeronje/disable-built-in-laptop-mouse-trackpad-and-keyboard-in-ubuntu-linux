@@ -15,4 +15,4 @@ chmod +x disable_trackpad_keyboard.sh
 
 # Tech content
 
-You may watch [TC7](https://web.facebook.com/share/v/17EbYKBkQf/) for more context.
+You may watch [TC7](https://web.facebook.com/share/v/17EbYKBkQf/) for more context. ```The video is in Filipino language```
