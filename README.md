@@ -1,7 +1,22 @@
 # disable-built-in-laptop-mouse-trackpad-and-keyboard-in-ubuntu-linux
 When your lappy toppy internal keyboard or mouse trackpad is acting up i.e. phantom key presses, on and off sticky keys, this shell script disable this function at OS level (linux) so you can use USB or Bluetooth inputs instead.
 
-# disable_trackpad_keyboard.sh
+# [Landing page](https://aeronjedisabletrackpadkeyboardsh.vercel.app/)
+```
+aeronje
+└──disable-built-in-laptop-mouse-trackpad-and-keyboard-in-ubuntu-linux/
+    ├── README.md
+    ├── disable_trackpad_keyboard.sh
+    ├── index.html
+    ├── assets/
+    │   └── images/
+    ├── css/
+    │   └── styles.css
+    └── js/
+        └── main.js
+```
+
+# [disable_trackpad_keyboard.sh](https://aeronjedisabletrackpadkeyboardsh.vercel.app/)
 
 A simple script for disabling the built-in keyboard and touchpad on Linux (Ubuntu tested), designed for older laptops with broken or sloppy input hardware. The shell script is uploaded on this repository, the bash commands written on the shell script are based on the "xinput list" output from the machine where it is being tested. Please consider changing the bash command on your shell scipt based from the output of your "xinput list".
 
@@ -14,5 +29,4 @@ A simple script for disabling the built-in keyboard and touchpad on Linux (Ubunt
 chmod +x disable_trackpad_keyboard.sh
 
 # Tech content
-
 You may watch [TC7](https://web.facebook.com/share/v/17EbYKBkQf/) for more context. ```The video is in Filipino language```
