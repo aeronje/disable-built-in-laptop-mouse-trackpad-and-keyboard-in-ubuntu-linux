@@ -9,11 +9,7 @@ aeronje
     ├── disable_trackpad_keyboard.sh
     ├── index.html
     ├── assets/
-    │   └── images/
-    ├── css/
-    │   └── styles.css
-    └── js/
-        └── main.js
+         └── images/
 ```
 
 # [disable_trackpad_keyboard.sh](https://aeronjedisabletrackpadkeyboardsh.vercel.app/)
